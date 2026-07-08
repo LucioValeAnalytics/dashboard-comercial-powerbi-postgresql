@@ -86,5 +86,5 @@ Além da análise de dados, o projeto explora direção visual aplicada a dashbo
 ## Autor
 
 Lúcio do Vale  
-LinkedIn: [coloque aqui seu link  ](https://www.linkedin.com/in/valeanalitycs)
-GitHub: [coloque aqui seu link](https://github.com/LucioValeAnalytics)
+LinkedIn: https://www.linkedin.com/in/valeanalitycs
+GitHub: https://github.com/LucioValeAnalytics
